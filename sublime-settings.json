@@ -1,17 +1,17 @@
 {
-	"font_size": 18,
-	"font_face": "Consolas Bold",
-	"translate_tabs_to_spaces": true,
+    "font_size": 18,
+    "font_face": "Consolas Bold",
+    "translate_tabs_to_spaces": true,
     "trim_trailing_white_space_on_save": true,
     "word_wrap": true,
     "highlight_line": true,
     "caret_style": "phase",
     "highlight_modified_tabs": true,
     "bold_folder_labels": true,
-	"color_scheme": "Packages/Dayle Rees Color Schemes/Patriot.tmTheme",
-	"ignored_packages":
-	[
-		"Vintage"
-	],
-	"theme": "Soda Dark.sublime-theme"
+    "color_scheme": "Packages/Dayle Rees Color Schemes/Patriot.tmTheme",
+    "ignored_packages":
+    [
+        "Vintage"
+    ],
+    "theme": "Soda Dark.sublime-theme"
 }
