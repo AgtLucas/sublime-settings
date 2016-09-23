@@ -13,7 +13,6 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"Package Control",
 		"Vintage"
 	],
 	"line_padding_bottom": 3,
@@ -28,4 +27,5 @@
 	"theme": "Afterglow-blue.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
-	"
+	"word_wrap": "true"
+}
