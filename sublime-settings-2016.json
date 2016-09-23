@@ -6,13 +6,14 @@
 	"caret_extra_top": 3,
 	"caret_extra_width": 2,
 	"caret_style": "phase",
-	"color_scheme": "Packages/User/SublimeLinter/base16-ocean.dark (SL).tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/One Dark (SL).tmTheme",
 	"draw_white_space": "all",
-	"font_face": "Fira Code",
-	"font_size": 14.0,
+	"font_face": "Mononoki",
+	"font_size": 15.0,
 	"highlight_line": true,
 	"ignored_packages":
 	[
+		"Package Control",
 		"Vintage"
 	],
 	"line_padding_bottom": 3,
@@ -27,5 +28,4 @@
 	"theme": "Afterglow-blue.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
-	"word_wrap": "true"
-}
+	"
